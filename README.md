@@ -52,3 +52,5 @@ error
 ### Слияние веток
 
 Для того, чтобы добавить ветку используется команда *git merge <name branch>*
+
+DONT Worry. Be Happy.
