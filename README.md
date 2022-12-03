@@ -54,3 +54,4 @@ error
 Для того, чтобы добавить ветку используется команда *git merge <name branch>*
 
 hdsgfjghlwreglwejghggjfhgjhgjhgjh
+Для описания проектов на GitHub используется README.md, который пишется на языке разметки markdown.Что и как поддерживается расписано ниже. Так же существует еще один формат RestructuredText описание которого вынесено в отдельный файл README.rst.
